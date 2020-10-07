@@ -1,2 +1,2 @@
 # aws
-AWS s3 JSON file for public access
+AWS S3 JSON file for public access
